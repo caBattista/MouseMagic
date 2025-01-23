@@ -1,0 +1,5 @@
+delay 1000
+move 0565 0320
+delay 1000
+move 1270 0240
+delay 1000

@@ -1,0 +1,32 @@
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.exe
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.pdb
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csprojResolveAssemblyReference.cache
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse_Magic.Properties.Resources.resources
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.GenerateResource.Cache
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.exe
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.pdb
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Christopher Battista\source\repos\Mouse Magic\Mouse Magic\obj\Debug\Mouse_Magic.MouseMagic.resources
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.exe.config
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.exe
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.pdb
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Debug\Gma.System.MouseKeyHook.dll
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.AssemblyReference.cache
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse_Magic.MouseMagic.resources
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse_Magic.Properties.Resources.resources
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.GenerateResource.cache
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.CoreCompileInputs.cache
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Ma.A0002455.Up2Date
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.exe
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.pdb
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse_Magic.MouseMagic.resources
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse_Magic.Properties.Resources.resources
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.exe
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\obj\Debug\Mouse Magic.pdb
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.exe.config
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.exe
+C:\Users\chris\Desktop\Mouse Magic\Mouse Magic\bin\Debug\Mouse Magic.pdb

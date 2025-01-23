@@ -1,0 +1,12 @@
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Release\Mouse Magic.exe.config
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Release\Mouse Magic.exe
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Release\Mouse Magic.pdb
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\bin\Release\Gma.System.MouseKeyHook.dll
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse Magic.csproj.AssemblyReference.cache
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse_Magic.MouseMagic.resources
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse_Magic.Properties.Resources.resources
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse Magic.csproj.GenerateResource.cache
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse Magic.csproj.CoreCompileInputs.cache
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse Ma.A0002455.Up2Date
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse Magic.exe
+\\Christopher_Nas\chrisfiles\Documents\4_Hobby\0_Coding\2_Desktop\Mouse Magic\Mouse Magic\obj\Release\Mouse Magic.pdb
